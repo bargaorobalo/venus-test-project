@@ -1,0 +1,25 @@
+{
+  "name": "venus-test-project",
+  "version": "0.0.0",
+  "description": "This is a test experiment for my grunt venus plugin",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Front",
+    "end",
+    "developer"
+  ],
+  "author": "Bargão Robalo [bargaorobalo@gmail.com]",
+  "license": "GNU GPLv3",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-jshint": "~0.5.4",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
